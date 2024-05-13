@@ -1,0 +1,30 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 800 */
+
+:root {
+  --white: #fff;
+  --purple: #5f00d9;
+  --black: "#171717";
+  --5: #f3f3f7;
+  --10: #eeeef4;
+  --20: #d8dde2;
+  --40: #babac4;
+  --60: #797e82;
+  --80: #535d66;
+}
+
+body {
+  background-color: var(--5);
+}
+
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bubblegum-sans-regular {
+  font-family: "Bubblegum Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
